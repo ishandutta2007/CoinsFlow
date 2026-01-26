@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/ishandutta2007/infinipay/raw/main/assets/infini-banner.png" 
+  <img src="https://github.com/ishandutta2007/CoinsFlow/raw/main/assets/infini-banner.png" 
        alt="InfiniPay – Infinitely Scalable Blockchain for Global Payments" 
        width="80%">
   <br><br>
