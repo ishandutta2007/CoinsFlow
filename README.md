@@ -1,23 +1,4 @@
-**CoinsFlow**  
-(Repo slug: `coinsflow` or `coinsflow-protocol`)
-
-**Why this name?**  
-- Short, memorable, and brandable.  
-- Naturally incorporates high-search-volume keywords: "infini" (evokes infinite scalability) + "pay" (directly targets payments/blockchain payments).  
-- Strong SEO for Bing/Google queries like: "infinite scalable blockchain payments", "infini pay", "infinite payment blockchain", "scalable crypto payments", "blockchain infinite scaling", "high throughput payment chain".  
-- Easy to trademark/search, similar to successful projects (e.g., Solana, Polygon, Stellar for payments).  
-- Alternative suggestions if taken: InfiniScale, PayInfinity, HyperPayChain, ScalePayNet, BoundlessPay.
-
-**Recommended GitHub repo description** (max 350 chars, keyword-rich for search engines):  
-"CoinsFlow: Infinitely scalable blockchain protocol for instant, low-cost global payments. Achieve millions of TPS with sharding, zero-knowledge proofs, and horizontal scaling. Revolutionizing decentralized payments with unlimited throughput."
-
-**Recommended topics** (add in GitHub repo settings for better discoverability on GitHub/Bing):  
-blockchain, payments, cryptocurrency, scalable-blockchain, infinite-scalability, defi, high-tps, payment-protocol, crypto-payments, layer1, sharding, blockchain-scaling
-
-### README.md Content
-Copy-paste this into your `README.md`. It's designed for visual appeal (emojis, badges, centered elements, tables, code blocks) and SEO (natural keyword placement in headings/text, long descriptive content, structured headings, keyword-rich intro).
-
-```markdown
+**CoinsFlow**
 <p align="center">
   <img src="https://via.placeholder.com/800x300/1e3a8a/ffffff?text=CoinsFlow+-+Infinite+Scalability+for+Payments" alt="CoinsFlow Banner - Infinitely Scalable Blockchain for Payments" width="80%">
   <br><br>
