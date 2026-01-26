@@ -1,6 +1,9 @@
-**CoinsFlow**
+
+
 <p align="center">
-  <img src="https://via.placeholder.com/800x300/1e3a8a/ffffff?text=CoinsFlow+-+Infinite+Scalability+for+Payments" alt="CoinsFlow Banner - Infinitely Scalable Blockchain for Payments" width="80%">
+  <img src="https://images.unsplash.com/photo-1639762681485-8b309c15d6f3?auto=format&fit=crop&q=80&w=2400" 
+     alt="InfiniPay Banner - Infinitely Scalable Blockchain for Payments" 
+     width="80%">
   <br><br>
   <h1>CoinsFlow 🚀💸🌐</h1>
   <h3>Infinitely Scalable Blockchain Protocol for Global Payments</h3>
