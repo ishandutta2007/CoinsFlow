@@ -191,10 +191,10 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## Community & Support 💬
 
-- **Discord**: https://discord.gg/your-coinsflow  
+- **Discord**: https://discord.com/invite/jc4xtF58Ve
 - **Twitter/X**: @CoinsFlowHQ  
 - **Docs**: https://docs.coinsflow.org  
-- **Issues**: https://github.com/yourusername/coinsflow/issues  
+- **Issues**: https://github.com/ishandutta2007/coinsflow/issues  
 
 **CoinsFlow** — Scaling blockchain payments infinitely. Join the revolution today! 🌟
 
