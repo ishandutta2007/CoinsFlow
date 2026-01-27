@@ -198,6 +198,9 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **CoinsFlow** — Scaling blockchain payments infinitely. Join the revolution today! 🌟
 
-<p align="center">
-  Made with ❤️ for the future of finance
-</p>
+
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/CoinsFlow&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/CoinsFlow&type=date&legend=top-left)
+
